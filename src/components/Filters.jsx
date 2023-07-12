@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState, useId } from "react";
 import "./Filters.css";
 
